@@ -1,0 +1,21 @@
+streamlit
+pandas
+numpy
+plotly
+wordcloud
+matplotlib
+fpdf
+Pillow
+scikit-learn
+transformers
+torch
+langdetect
+deep-translator
+textblob
+PyPDF2
+requests
+sentencepiece
+
+# Optional (only if you plan to use GPU-specific builds or more models):
+# - For a CUDA-enabled torch install, follow https://pytorch.org/get-started/locally/
+# - You may want to pin versions for reproducibility (e.g. streamlit==1.24.0)
