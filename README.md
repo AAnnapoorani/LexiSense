@@ -1,4 +1,4 @@
- MCA eConsultation — AI Portal (Merged)
+**MCA eConsultation — AI Portal**
 
 - **Description**: A Streamlit app that provides a merged admin and individual portal for eConsultation analysis. It supports local NLP pipelines (summarization, sentiment, translation, TF-IDF keyword extraction, wordclouds) with a mock ML fallback and an optional external ML API integration.
 
